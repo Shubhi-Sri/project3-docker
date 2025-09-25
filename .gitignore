@@ -1,0 +1,14 @@
+# Ignore MySQL data
+**/mysql-data/
+
+# Ignore Python caches
+**/__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+.env
+
+# Ignore logs
+*.log
+
